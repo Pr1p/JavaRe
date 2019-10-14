@@ -18,7 +18,7 @@ Git-Guide
 
 并不能吃辣的你一口气放了太多的辣椒，你悔不当初，希望当初放调料时能少放些辣椒。
 
-![LogoMakr_3CqDFH](D:\Github-Item\GIT\LogoMakr_3CqDFH.png)
+![LogoMakr_3CqDFH](https://github.com/Pr1p/JavaRe/blob/master/asset/LogoMakr_3CqDFH.png)
 
 在现实里，回到过去是不可能的，你只能捏着鼻子吃完这碗面。
 
@@ -76,7 +76,7 @@ Git-Guide
 
 首先我们要明确GIT的结构：
 
-![LogoMakr_9TN0kZ](D:\Github-Item\GIT\LogoMakr_9TN0kZ.png)
+![LogoMakr_9TN0kZ](https://github.com/Pr1p/JavaRe/blob/master/asset/LogoMakr_9TN0kZ.png)
 
 > 你的本地仓库由 git 维护的三棵“树”组成。第一个是你的 `工作目录`，它持有实际文件；第二个是 `暂存区（Index）`，它像个缓存区域，临时保存你的改动；最后是 `HEAD`，它指向你最后一次提交的结果。 
 >
@@ -102,7 +102,7 @@ Git-Guide
 
 + git init
 
-  ![1571050392749](C:\Users\NOONE~1\AppData\Local\Temp\1571050392749.png)
+  ![1571050392749](https://github.com/Pr1p/JavaRe/blob/master/asset/1571050392749.png)
 
   ```markdown
   执行 git init
