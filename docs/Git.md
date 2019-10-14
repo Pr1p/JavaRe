@@ -1,6 +1,6 @@
 Git-Guide
 
-![LogoMakr_50mVak](..\asset\LogoMakr_50mVak.png)
+![LogoMakr_50mVak](https://github.com/Pr1p/JavaRe/blob/master/asset/LogoMakr_50mVak.png)
 
 ## SVN/GIT 简介
 
