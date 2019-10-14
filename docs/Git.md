@@ -112,7 +112,7 @@ Git-Guide
 
 + git Add/git Status
 
-  ![1571050747147](C:\Users\NOONE~1\AppData\Local\Temp\1571050747147.png)![1571051099620](C:\Users\NOONE~1\AppData\Local\Temp\1571051099620.png)
+  ![1571050747147](https://github.com/Pr1p/JavaRe/blob/master/asset/1571050747147.png)![1571051099620](https://github.com/Pr1p/JavaRe/blob/master/asset/1571051099620.png)
 
   ```markdown
   新建测试文本test.txt 内容为this is a txt。
@@ -123,7 +123,7 @@ Git-Guide
 
 + git diff
 
-  ![1571051810821](C:\Users\NOONE~1\AppData\Local\Temp\1571051810821.png)
+  ![1571051810821](https://github.com/Pr1p/JavaRe/blob/master/asset/1571051810821.png)
 
   ```markdown
   将测试文本test.txt 内容从this is a text->this is a text1003.
@@ -134,9 +134,9 @@ Git-Guide
 
 + git Commit
 
-  ![1571052254768](C:\Users\NOONE~1\AppData\Local\Temp\1571052254768.png)
+  ![1571052254768](https://github.com/Pr1p/JavaRe/blob/master/asset/1571052254768.png)
 
-  ![1571052277013](C:\Users\NOONE~1\AppData\Local\Temp\1571052277013.png)
+  ![1571052277013](https://github.com/Pr1p/JavaRe/blob/master/asset/1571052277013.png)
 
   ```markdown
   执行 git commit -m '这里输入您想输入的备注'
@@ -148,13 +148,13 @@ Git-Guide
 
 + git rm/git mv/git reset HEAD
 
-  ![1571053584106](C:\Users\NOONE~1\AppData\Local\Temp\1571053584106.png)
+  ![1571053584106](https://github.com/Pr1p/JavaRe/blob/master/asset/1571053584106.png)
 
-  ![1571053609508](C:\Users\NOONE~1\AppData\Local\Temp\1571053609508.png)
+  ![1571053609508](https://github.com/Pr1p/JavaRe/blob/master/asset/1571053609508.png)
 
-  ![1571053620811](C:\Users\NOONE~1\AppData\Local\Temp\1571053620811.png)
+  ![1571053620811](https://github.com/Pr1p/JavaRe/blob/master/asset/1571053620811.png)
 
-  ![1571053634378](C:\Users\NOONE~1\AppData\Local\Temp\1571053634378.png)
+  ![1571053634378](https://github.com/Pr1p/JavaRe/blob/master/asset/1571053634378.png)
 
   ```markdown
   test.txt已经提交至暂存区
@@ -172,16 +172,16 @@ Git-Guide
   执行此语句，会删除该目录下的所有文件和子目录。
   ```
 
-  ![1571053886042](C:\Users\NOONE~1\AppData\Local\Temp\1571053886042.png)
+  ![1571053886042](https://github.com/Pr1p/JavaRe/blob/master/asset/1571053886042.png)
 
-  ![1571053895785](C:\Users\NOONE~1\AppData\Local\Temp\1571053895785.png)
+  ![1571053895785](https://github.com/Pr1p/JavaRe/blob/master/asset/1571053895785.png)
 
   ```
   在当前目录下建立一个git1目录，并创建一个git.txt文件
   使用git rm将之移动/更名
   ```
 
-  ![1571054008299](C:\Users\NOONE~1\AppData\Local\Temp\1571054008299.png)![1571054019981](C:\Users\NOONE~1\AppData\Local\Temp\1571054019981.png)
+  ![1571054008299](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054008299.png)![1571054019981](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054019981.png)
 
   ```
   将git.txt踢出暂存区
@@ -194,7 +194,7 @@ Git-Guide
   创建分支
   ```
 
-  ![1571054301184](C:\Users\NOONE~1\AppData\Local\Temp\1571054301184.png)![1571054497469](C:\Users\NOONE~1\AppData\Local\Temp\1571054497469.png)
+  ![1571054301184](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054301184.png)![1571054497469](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054497469.png)
 
 + git Checkout
 
@@ -205,13 +205,13 @@ Git-Guide
   创建并切换到该分支
   ```
 
-  ![1571054435121](C:\Users\NOONE~1\AppData\Local\Temp\1571054435121.png)
+  ![1571054435121](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054435121.png)
 
-  ![1571054560036](C:\Users\NOONE~1\AppData\Local\Temp\1571054560036.png)
+  ![1571054560036](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054560036.png)
 
 + git Merge
 
-  ![1571054730273](C:\Users\NOONE~1\AppData\Local\Temp\1571054730273.png)![1571054995880](C:\Users\NOONE~1\AppData\Local\Temp\1571054995880.png)
+  ![1571054730273](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054730273.png)![1571054995880](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054995880.png)
 
   ```
   git merge <欲合并进来的分支名>
@@ -219,19 +219,19 @@ Git-Guide
   删除后 仅剩master分支。
   ```
 
-  ![1571055494756](C:\Users\NOONE~1\AppData\Local\Temp\1571055494756.png)
+  ![1571055494756](https://github.com/Pr1p/JavaRe/blob/master/asset/1571055494756.png)
 
-  ![1571055529019](C:\Users\NOONE~1\AppData\Local\Temp\1571055529019.png)
+  ![1571055529019](https://github.com/Pr1p/JavaRe/blob/master/asset/1571055529019.png)
 
   
 
 + git Rebase
 
-  ![1571055760621](C:\Users\NOONE~1\AppData\Local\Temp\1571055760621.png)
+  ![1571055760621](https://github.com/Pr1p/JavaRe/blob/master/asset/1571055760621.png)
 
-  ![1571055775957](C:\Users\NOONE~1\AppData\Local\Temp\1571055775957.png)
+  ![1571055775957](https://github.com/Pr1p/JavaRe/blob/master/asset/1571055775957.png)
 
-  ![1571057310993](C:\Users\NOONE~1\AppData\Local\Temp\1571057310993.png)
+  ![1571057310993](https://github.com/Pr1p/JavaRe/blob/master/asset/1571057310993.png)
 
   ```
   git rebase <欲合并到的分支名>
@@ -246,7 +246,7 @@ Git-Guide
 >
 >HEAD->当前分支->当前分支最近的一次提交记录
 
-![1571056183029](C:\Users\NOONE~1\AppData\Local\Temp\1571056183029.png)
+![1571056183029](https://github.com/Pr1p/JavaRe/blob/master/asset/1571056183029.png)
 
 ```
 通过Git Log查看hash值
@@ -269,7 +269,7 @@ git checkout <欲跳转的Hash>~?
   例如 git cherry-pick C2 C4
   ```
 
-  ![1571056575988](C:\Users\NOONE~1\AppData\Local\Temp\1571056575988.png)
+  ![1571056575988](https://github.com/Pr1p/JavaRe/blob/master/asset/1571056575988.png)
 
 + git Tag
 
@@ -279,7 +279,7 @@ git checkout <欲跳转的Hash>~?
   git tag <标签名> <标记点Hash>
   ```
 
-  ![1571057487912](C:\Users\NOONE~1\AppData\Local\Temp\1571057487912.png)
+  ![1571057487912](https://github.com/Pr1p/JavaRe/blob/master/asset/1571057487912.png)
 
 + git Describe
 
@@ -300,7 +300,7 @@ git checkout <欲跳转的Hash>~?
   >
   >当 `ref` 提交记录上有某个标签时，则只输出标签名称
 
-  ![1571057783015](C:\Users\NOONE~1\AppData\Local\Temp\1571057783015.png)
+  ![1571057783015](https://github.com/Pr1p/JavaRe/blob/master/asset/1571057783015.png)
 
   ```
   git describe
@@ -337,7 +337,7 @@ git checkout <欲跳转的Hash>~?
   
   ```
 
-  ![1571058034750](C:\Users\NOONE~1\AppData\Local\Temp\1571058034750.png)
+  ![1571058034750](https://github.com/Pr1p/JavaRe/blob/master/asset/1571058034750.png)
 
 + git remote
 
@@ -361,7 +361,7 @@ git checkout <欲跳转的Hash>~?
   
   ```
 
-  ![1571058422359](C:\Users\NOONE~1\AppData\Local\Temp\1571058422359.png)
+  ![1571058422359](https://github.com/Pr1p/JavaRe/blob/master/asset/1571058422359.png)
 
 + git Pull
 
@@ -370,7 +370,7 @@ git checkout <欲跳转的Hash>~?
   如果当前分支只有一个追踪分支，可省略远程主机名。
   ```
 
-  ![1571058565615](C:\Users\NOONE~1\AppData\Local\Temp\1571058565615.png)
+  ![1571058565615](https://github.com/Pr1p/JavaRe/blob/master/asset/1571058565615.png)
 
 + git Push
 
@@ -382,9 +382,9 @@ git push origin将你负责的变更上传到远程仓库，并在远程仓库�
 如果当前分支只有一个追踪分支，那么主机名都可以省略。
 ```
 
-![1571058774443](C:\Users\NOONE~1\AppData\Local\Temp\1571058774443.png)
+![1571058774443](https://github.com/Pr1p/JavaRe/blob/master/asset/1571058774443.png)
 
-![1571058755547](C:\Users\NOONE~1\AppData\Local\Temp\1571058755547.png)
+![1571058755547](https://github.com/Pr1p/JavaRe/blob/master/asset/1571058755547.png)
 
 推荐开发分支图：
 
