@@ -14,7 +14,7 @@ Git-Guide
 
 为了更好的让读者理解这句话，我们用这张图做一个版本控制示例：
 
-![LogoMakr_4KaWen](https://github.com/Pr1p/JavaRe/blob/master/asset\LogoMakr_4KaWen.png)
+![LogoMakr_4KaWen](https://github.com/Pr1p/JavaRe/blob/master/asset/LogoMakr_4KaWen.png)
 
 并不能吃辣的你一口气放了太多的辣椒，你悔不当初，希望当初放调料时能少放些辣椒。
 
