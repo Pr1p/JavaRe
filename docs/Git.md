@@ -186,9 +186,10 @@ Git-Guide
   ```
   将git.txt踢出暂存区
   ```
-  ***清除工作区（未提交到暂存区）的数据 回退到与版本库保持一致-> git checkout -- file**
-  **清除已经提交到暂存区的数据 回退到与上次暂存区保持一致-> git reset HEAD <FileName> ->git checkout -- file**
-  **清除已经提交到本地仓库的数据 回退到某版本-> git reset --hard <版本号> **
+  >
+  清除工作区（未提交到暂存区）的数据 回退到与版本库保持一致-> git checkout -- file
+  清除已经提交到暂存区的数据 回退到与上次暂存区保持一致-> git reset HEAD <FileName> ->git checkout -- file
+  清除已经提交到本地仓库的数据 回退到某版本-> git reset --hard <版本号> 
   
 
 + git Branch
