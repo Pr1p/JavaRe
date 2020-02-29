@@ -178,7 +178,7 @@
 
   ```
   在当前目录下建立一个git1目录，并创建一个git.txt文件
-  使用git mv将之移动/更名
+  使用git mv将之移动/更名（git mv 原名 改后名）
   ```
 
   ![1571054008299](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054008299.png)![1571054019981](https://github.com/Pr1p/JavaRe/blob/master/asset/1571054019981.png)
